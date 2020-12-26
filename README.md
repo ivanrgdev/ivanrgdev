@@ -10,7 +10,7 @@ I am a software developer specialized in the backend with web services (REST) an
 * OOP
 * Pattern design
 
-## Books:
+## Readings:
 
 [Java: The Complete Reference](https://www.amazon.com.mx/Java-Complete-Reference-Herbert-Schildt/dp/1260440230/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=6PN6NPPO7JVD&dchild=1&keywords=java+the+complete+reference&qid=1605717377&sprefix=java+the+%2Caps%2C189&sr=8-1)
 
